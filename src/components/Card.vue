@@ -38,7 +38,6 @@
     <!-- Hero content: will be in the middle -->
     <div class="hero-body">
       <div class="columns">
-        <div class="column"></div>
         <div class="column is-two-thirds-desktop is-four-fifths-mobile is-four-fifths-tablet">
           <div v-for="(item, index) in myJson" :key="index">
             <div class="card">
@@ -201,8 +200,12 @@ export default {
     color: blue !important;
     
 }
+html {
+  background-color: #363636;
+  color: #f5f5f5;
+}
 
-@media screen and (min-width: 250px) and (max-width: 1000px) {
+@media screen and (min-width: 780px) and (max-width: 1000px) {
   .hero {
     width: 1000px;
   }
@@ -210,9 +213,27 @@ export default {
     margin-left: 0px;
   }
 }
-@media screen and (min-width: 100px) and (max-width: 250px) {
+@media screen and (min-width: 660px) and (max-width: 780px) {
+  .hero {
+    width: 1000px;
+  }
+  .navbar-burger {
+    margin-left: 0px;
+  }
+  .card {
+    width: 800px;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 660px) {
   .hero {
     width: 900px;
+  }
+  .navbar-burger {
+    margin-left: 0px;
+  }
+  .card {
+    width: 600px;
   }
 }
 </style>

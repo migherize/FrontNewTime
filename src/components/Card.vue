@@ -131,7 +131,7 @@ export default {
 
         // fecha diferencia
         var d3 = new Date(d2.getTime()-d1.getTime());
-        var d4 = Math.round(d3 / 3600000);
+        var d4 = Math.abs(Math.round(d3 / 3600000));
         return d4
     },
     change_link(l){
@@ -236,4 +236,16 @@ html {
     width: 600px;
   }
 }
+@media screen and (min-width: 0px) and (max-width: 400px) {
+  .hero {
+    width: 900px;
+  }
+  .navbar-burger {
+    margin-left: 0px;
+  }
+  .card {
+    width: 600px;
+  }
+}
+
 </style>

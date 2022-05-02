@@ -1,114 +1,184 @@
 [
     {
-        "date": "2022-05-01 15:19:00",
-        "title": "Gestire la tesoreria di una DAO in un mercato ribassista",
-        "description": "Sia che stiate gestendo finanze personali un portfolio TradFi o la tesoreria di una DAO nel settore DeFi ci sono alcune pratiche da rispettare e apprezzare.",
-        "link": "https://it.cryptonews.com/exclusives/how-daos-can-adopt-best-practices-for-treasury-management-in-a-bear-market-it.htm",
-        "history": "01/05/2022 17:37:44"
+        "date": "2022-05-02 17:44:00",
+        "title": "APE raggiunger i 27 USD entro la fine del 2022",
+        "description": "Il prezzo di apecoin (APE) potrebbe salire dal livello attuale di circa 15 USD a 27 USD alla fine di quest'anno.",
+        "link": "https://it.cryptonews.com/news/apecoin-to-hit-usd-27-by-end-2022-survey-it.htm",
+        "history": "02/05/2022 16:06:11"
     },
     {
-        "date": "2022-05-01 12:10:00",
-        "title": "Piazza Digitale: Cosa pu cambiare se Musk acquista Twitter?",
-        "description": "Elon Musk dice di non voler acquistare Twitter per fare soldi ma piuttosto perch tra le altre cose crede nella libert di parola.",
-        "link": "https://it.cryptonews.com/exclusives/digital-town-square-what-might-musks-twitter-deal-mean-it.htm",
-        "history": "01/05/2022 17:37:44"
+        "date": "2022-05-02 15:38:30.869812",
+        "title": "Gold Miners Outshine Bitcoin Miners To Start 2022. Will It Last?",
+        "description": "With a sleepy start to 2022 bitcoin has been outpaced by the classic commodity  but this could change fast.",
+        "link": "https://bitcoinmagazine.com/business/moritz-wietersheim-specter-bitcoin",
+        "history": "02/05/2022 16:06:11"
     },
     {
-        "date": "2022-04-30 17:37:50.748565",
-        "title": "Bifrost reaches its crowdloan soft cap of 300000 DOT ahead of the Polkadot parachain auction",
-        "description": "Bifrost is on its way to deliver its promise of building a decentralized cross-chain staking liquidity solution.",
-        "link": "https://cryptoslate.com/bifrost-reaches-its-crowdloan-soft-cap-of-300000-dot/",
-        "history": "01/05/2022 17:37:44"
+        "date": "2022-05-02 15:08:30.871795",
+        "title": "Bitcoin Is A Liquid Alternative To Cash Says Elon Musks Tesla",
+        "description": "In a recent SEC filing Tesla explained bitcoins liquidity use case while outlining its long-term potential.",
+        "link": "https://bitcoinmagazine.com/business/moritz-wietersheim-specter-bitcoin",
+        "history": "02/05/2022 16:06:11"
     },
     {
-        "date": "2022-04-30 17:37:50.747120",
+        "date": "2022-05-02 15:00:00",
+        "title": "Interruzione di Solana: l'impatto sui prezzi  minore",
+        "description": "Dopo almeno 9 giorni con interruzioni segnalate finora nel 2022 il prezzo di SOL non sembra eccessivamente influenzato dai problemi di rete.",
+        "link": "https://it.cryptonews.com/news/another-solana-outage-shows-that-price-impact-is-minor-it.htm",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 14:08:41.345571",
+        "title": "Why Terras Anchor Protocol Changed Earn Rate To 18% APY",
+        "description": "Anchor Protocol one of the most popular platforms in the Terra ecosystem rolled out a change in its Earn Rate. The latter will begin to operate in a semi-dynamic fashion...",
+        "link": "https://www.newsbtc.com/news/defi/why-terras-anchor-protocol-changed-earn-rate-to-18-apy/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 14:06:33.973197",
+        "title": "Belgian regulator mandates registration for companies providing crypto-related services",
+        "description": "Crypto companies looking to operate in Belgium must have a corporate structure hold a minimum capital of 50000 and register with the Belgian financial watchdog.",
+        "link": "https://cryptoslate.com/belgian-regulator-mandates-registration-for-companies-providing-crypto-related-services/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 13:19:00",
+        "title": "Classifica criptovalute: le migliori e peggiori di Aprile",
+        "description": "Ecco le migliori e peggiori criptovalute nel mese di Aprile",
+        "link": "https://it.cryptonews.com/news/coin-race-best-worst-cryptos-in-red-april-it.htm",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 13:08:41.347097",
+        "title": "Billionaire Ricardo Salinas Fires Back At Warren Buffetts Bitcoin Slander",
+        "description": "Bitcoin is not topping the list of the favorite investments of some big names in the financial sector. One of those is billionaire Warren Buffett who has not been shy...",
+        "link": "https://www.newsbtc.com/news/bitcoin/billionaire-ricardo-salinas-fires-back-at-warren-buffetts-bitcoin-slander/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 13:08:30.878845",
+        "title": "Michael Saylor Jack Dorsey Pen Letter To EPA Refuting Bitcoin Energy FUD",
+        "description": "A letter authored by Michael Saylor Jack Dorsey and other members of the Bitcoin Mining Council was sent to the EPA refuting energy FUD about mining bitcoin.",
+        "link": "https://bitcoinmagazine.com/business/moritz-wietersheim-specter-bitcoin",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 13:08:30.875494",
+        "title": "Bitcoin Songsheet: Private Property And Covenants",
+        "description": "Bitcoin stands out because it is a digital bearer asset that gives full private property rights to its users and development must carefully protect this aspect.",
+        "link": "https://bitcoinmagazine.com/business/moritz-wietersheim-specter-bitcoin",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 13:06:33.975059",
+        "title": "Safemoon is down 96.5% down from all-time high after Coffeezillas recent fraud allegations",
+        "description": "Safemoon's price fell almost 50% in one day following the latest video accusation of fraud against the projects founder.",
+        "link": "https://cryptoslate.com/safemoon-is-down-96-5-down-from-all-time-high-after-coffeezillas-recent-fraud-allegations/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 11:08:41.348285",
+        "title": "Analysts Predict ApeCoin To Hit $50 By End Of 2025  And $100 By 2030",
+        "description": "As Bitcoin and Ethereum price remain bearish for the longest time now  barely hitting above $40000 for BTC and not going over $3000 for ETH ApeCoin on the other hand...",
+        "link": "https://www.newsbtc.com/news/analysts-predict-apecoin-to-hit-25/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 11:08:30.882537",
+        "title": "Bitfarms Mined 405 Bitcoin In April Now Holds 5646 BTC",
+        "description": "Bitfarms released a bitcoin mining update detailing a 75% YoY increase in production and the custodying of 99% of total mined BTC in April.",
+        "link": "https://bitcoinmagazine.com/business/moritz-wietersheim-specter-bitcoin",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 11:06:33.977127",
+        "title": "Crypto.com slashes rewards to ensure long-term sustainability",
+        "description": "Some users slammed the changes to the Crypto.com rewards program saying the cuts are sudden and too aggressive.",
+        "link": "https://cryptoslate.com/crypto-com-slashes-rewards-to-ensure-long-term-sustainability/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 09:08:00",
+        "title": "Wikipedia non accetter pi donazioni in criptovalute",
+        "description": "La Wikimedia Foundation l'ente che gestisce l'enciclopedia web Wikipedia creata dagli utenti ha annunciato che non accetter pi donazioni in criptovalute.",
+        "link": "https://it.cryptonews.com/news/232-wikipedia-users-force-the-online-encyclopedia-to-ditch-bitcoin-ethereum-and-bch-donation-options-it.htm",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 09:06:33.978641",
+        "title": "Germany is the number one tax haven for crypto investors with 0% tax rates",
+        "description": "Cryptocurrency investors in Germany can benefit from 0% tax rates on their profits if they hold their coins for a year without cashing out.",
+        "link": "https://cryptoslate.com/germany-is-the-number-one-tax-haven-for-crypto-investors-with-0-tax-rates/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 08:08:30.884452",
+        "title": "Hoseki Partners With Ledn For Easy Proof Of Ownership In Bitcoin-Backed Loans",
+        "description": "Hosekis upcoming bitcoin-native asset attestation service promises to speed up the loan taking process.",
+        "link": "https://bitcoinmagazine.com/business/moritz-wietersheim-specter-bitcoin",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 08:06:33.981435",
+        "title": "Warren Buffett thinks he could own 100% of Bitcoin",
+        "description": "Warren Buffett explains why he thinks Bitcoin lacks any real value by asking what he would do if he owned 100% of the supply",
+        "link": "https://cryptoslate.com/warren-buffett-thinks-he-could-own-100-of-bitcoin/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 07:06:33.983338",
+        "title": "Goldman Sachs recently offered its first Bitcoin (BTC)-backed loan",
+        "description": "The large investment bank announced the opening of its first-ever loan facility backed by Bitcoin. This comes a few months after their $100k price forecast for the popular cryptocurrency.",
+        "link": "https://cryptoslate.com/goldman-sachs-recently-offered-its-first-bitcoin-btc-backed-loan/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 06:06:33.984936",
+        "title": "Ethereum user spends $44000 in gas fees to mint Bored Ape Otherside NFTs",
+        "description": "Bored Ape Otherdeed NFTs were so popular the Ethereum blockchain struggled to cope with demand.",
+        "link": "https://cryptoslate.com/ethereum-user-spends-44000-in-gas-fees-to-mint-bored-ape-otherside-nfts/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-02 01:08:41.349467",
+        "title": "TA: Ethereum Recovers But ETH Must Clear This Key Resistance",
+        "description": "Ethereum started a recovery wave above the $2800 level against the US Dollar. must clear the $2850 resistance to continue higher in the near term. Ethereum started a decent recovery...",
+        "link": "https://www.newsbtc.com/analysis/eth/ethereum-recovers-resistance-2850/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-05-01 23:08:41.350916",
+        "title": "TA: Bitcoin Consolidates Below $39k: What Could Trigger Another Decline",
+        "description": "Bitcoin extended decline below the $38000 level against the US Dollar. BTC is recovering but it must clear $39000 for upside continuation. Bitcoin remained in a bearish zone below $40000...",
+        "link": "https://www.newsbtc.com/analysis/btc/bitcoin-consolidates-below-39k/",
+        "history": "02/05/2022 16:06:11"
+    },
+    {
+        "date": "2022-04-30 16:06:33.990371",
         "title": "Heres why Bitcoin may have to deal with a recession in 2024",
         "description": "Economists worldwide are raising fears that we could be heading towards a recession by 2024.",
         "link": "https://cryptoslate.com/heres-why-bitcoin-may-have-to-deal-with-a-recession-in-2024/",
-        "history": "01/05/2022 17:37:44"
+        "history": "02/05/2022 16:06:11"
     },
     {
-        "date": "2022-04-30 17:37:50.745669",
+        "date": "2022-04-30 16:06:33.989141",
         "title": "After USTs success a new race for L1 stablecoins is here",
         "description": "The algorithmic stablecoin TerraUSD (UST) has proven to be wildly successful becoming the third largest in the market. This has changed the playing filed for all.",
         "link": "https://cryptoslate.com/after-usts-success-a-new-race-for-l1-stablecoins-is-here/",
-        "history": "01/05/2022 17:37:44"
+        "history": "02/05/2022 16:06:11"
     },
     {
-        "date": "2022-04-30 17:37:50.742672",
+        "date": "2022-04-30 16:06:33.987817",
         "title": "A looming global energy crisis could directly affect Bitcoin miners",
         "description": "Rising energy costs predicted by the world bank may have a direct effect on the bitcoin network but will it make much difference?",
         "link": "https://cryptoslate.com/a-global-energy-crisis-could-directly-affect-bitcoin-miners/",
-        "history": "01/05/2022 17:37:44"
+        "history": "02/05/2022 16:06:11"
     },
     {
-        "date": "2022-04-30 17:30:00",
-        "title": "L'adozione di Lightning Network negli exchange  in crescita",
-        "description": "Ecco perch  un bene per Bitcoin che l'adozione di Lightning Network negli exchange stia crescendo",
-        "link": "https://it.cryptonews.com/exclusives/lightning-network-adoption-at-exchanges-is-growing-this-is-why-its-good-for-bitcoin-it.htm",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-30 14:40:00",
-        "title": "Come giocare ai giochi Metaverso: Guida per Decentraland",
-        "description": "In questa guida per principianti ai giochi del metaverso diamo un'occhiata a come giocare in Decentraland.",
-        "link": "https://it.cryptonews.com/exclusives/how-to-play-metaverse-games-a-beginners-guide-to-decentraland-it.htm",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 19:30:00",
-        "title": "Transazioni DeFi al minimo NFT e giochi rimangono solidi",
-        "description": "Le transazioni relative alle applicazioni DeFi hanno raggiunto il minimo da un anno.",
-        "link": "https://it.cryptonews.com/news/defi-transactions-at-one-year-low-nfts-and-games-standing-strong-it.htm",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 17:37:50.770134",
-        "title": "Hashstack Finance releases Open protocol for DeFi lending",
-        "description": "Hashstack announces Public testnet of the world's first ever secure under-collateralised lending protocol",
-        "link": "https://cryptoslate.com/hashstack-finance-releases-open-protocol-for-defi-lending/",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 17:37:50.768946",
-        "title": "ApeCoin reaches new high as Otherside launch looms",
-        "description": "Otherside metaverse lands would only be sold to wallets that are KYC-approved.",
-        "link": "https://cryptoslate.com/apecoin-reaches-new-high-as-otherside-launch-looms/",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 17:37:50.767614",
-        "title": "Zachxbt levies rug pull allegations against 4 Croatians connected to 9 NFT scams",
-        "description": "Zachxbt was able to uncover the alleged masterminds identity through information he got via anonymous sources and Discord.",
-        "link": "https://cryptoslate.com/zachxbt-levies-rug-pull-allegations-against-4-croatians-connected-to-9-nft-scams/",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 17:37:50.766163",
-        "title": "IMF raises concerns over the Central African Republics adoption of Bitcoin as legal tender",
-        "description": "The IMF has raised concerns over the Central African Republic's adoption of Bitcoin as legal tender due to the lack of a robust payments system in the country.",
-        "link": "https://cryptoslate.com/imf-raises-concerns-over-the-central-african-republics-adoption-of-bitcoin-as-legal-tender/",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 17:37:50.752638",
-        "title": "CoinMarketCap describes Ripples XRP as an impostor cryptocurrency",
-        "description": "Ripples community stated that CoinMarketCaps tweet revealed its bias against XRP.",
-        "link": "https://cryptoslate.com/coinmarketcap-describes-ripples-xrp-as-an-impostor-cryptocurrency/",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 17:37:50.751652",
-        "title": "EU traditional banking interest in crypto is going mainstream",
-        "description": "A French bank opens digital asset investments for clients with others looking to follow",
-        "link": "https://cryptoslate.com/eu-traditional-banking-interest-in-crypto-is-going-mainstream/",
-        "history": "01/05/2022 17:37:44"
-    },
-    {
-        "date": "2022-04-29 17:37:50.750491",
-        "title": "MetaMask and MoonPay team up to simplify fiat on ramp",
-        "description": "With Moonpay Metamask users can now use their credit cards to top up their crypto wallets.",
-        "link": "https://cryptoslate.com/metamask-and-moonpay-team-up-to-simplify-fiat-on-ramp/",
-        "history": "01/05/2022 17:37:44"
+        "date": "2022-04-30 16:06:33.986600",
+        "title": "Ethereum core developer to launch Web3 app store for data",
+        "description": "We spoke with the co-founder of Laconic Maly Ly who has teamed up with Ethereum developer Rick Dudley to create a data app store for web3.",
+        "link": "https://cryptoslate.com/ethereum-core-developer-to-launch-web3-app-store-for-data/",
+        "history": "02/05/2022 16:06:11"
     }
 ]

@@ -11,7 +11,7 @@
                 alt="Logo"
               />
             </a>
-            <span class="navbar-burger" data-target="navbarMenuHeroC">
+            <span class="navbar-burger burger" data-target="navbarMenuHeroC">
               <span></span>
               <span></span>
               <span></span>
@@ -20,7 +20,7 @@
           <div id="navbarMenuHeroC" class="navbar-menu">
             <div class="navbar-end">
               <a class="navbar-item is-active"> Home </a>
-              <a class="navbar-item"> Update: {{ history() }} </a>
+              <a class="navbar-item"> Last Update: {{ history() }} </a>
               <span class="navbar-item">
                 <a class="button is-success is-inverted" @click="onSubmit">
                   <span class="icon">
@@ -39,7 +39,7 @@
     <div class="hero-body">
       <div class="columns">
         <div class="column"></div>
-        <div class="column is-two-thirds">
+        <div class="column is-two-thirds-desktop is-four-fifths-mobile is-four-fifths-tablet">
           <div v-for="(item, index) in myJson" :key="index">
             <div class="card">
                 <header class="card-header">
@@ -149,9 +149,19 @@ export default {
     }
   },
   mounted() {
-    this.cover();
-    //this.update();
+    //this.cover();
+    this.update();
     this.show();
+    (function(){
+      console.log("hole");
+      var burger = document.querySelector('.burger');
+      var nav = document.querySelector('#'+burger.dataset.target);
+
+      burger.addEventListener('click', function(){
+      burger.classList.toggle('is-active');
+      nav.classList.toggle('is-active');
+      });
+    })(); 
   },
 };
 </script>
@@ -190,5 +200,19 @@ export default {
     padding-left: 10px;
     color: blue !important;
     
+}
+
+@media screen and (min-width: 250px) and (max-width: 1000px) {
+  .hero {
+    width: 1000px;
+  }
+  .navbar-burger {
+    margin-left: 0px;
+  }
+}
+@media screen and (min-width: 100px) and (max-width: 250px) {
+  .hero {
+    width: 900px;
+  }
 }
 </style>

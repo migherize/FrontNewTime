@@ -131,11 +131,11 @@ export default {
 
         // fecha diferencia
         var d3 = new Date(d2.getTime()-d1.getTime());
-        var d4 = Math.abs(Math.round(d3 / 3600000));
+        var d4 = Math.round(d3 / 3600000);
         return d4
     },
     change_link(l){
-        const regexp = 'https://[A-Za-z.,]+';
+        const regexp = 'https://[0-9A-Za-z.,]+';
         const array = [...l.matchAll(regexp)];
         var host = array[0].toString().replace('https://','')
         //console.log("array",array[0].toString().replace('https://',''));

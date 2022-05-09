@@ -60,9 +60,9 @@
             </div>
           </div>
         </div>
-        <div class="column">
+        <div class="column" id="col2">
         </div>
-        <div class="column"></div>
+        <div class="column" id="col2"></div>
       </div>
     </div>
 
@@ -235,6 +235,12 @@ html {
   .card {
     width: 600px;
   }
+  .navbar-end .navbar-item {
+    width: 300px;
+  }
+  #col2 {
+    display: none;
+  }
 }
 @media screen and (min-width: 0px) and (max-width: 400px) {
   .hero {
@@ -245,6 +251,10 @@ html {
   }
   .card {
     width: 600px;
+  }
+
+  #col2 {
+    display: none;
   }
 }
 

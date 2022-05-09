@@ -205,12 +205,27 @@ html {
   color: #f5f5f5;
 }
 
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+  .card {
+    width: 1500px;
+  }
+}
+
 @media screen and (min-width: 780px) and (max-width: 1000px) {
   .hero {
     width: 1000px;
   }
   .navbar-burger {
     margin-left: 0px;
+  }
+  .card {
+    width: 1200px;
+  }
+  .navbar-end .navbar-item {
+    width: 500px;
+  }
+  #col2 {
+    display: none;
   }
 }
 @media screen and (min-width: 660px) and (max-width: 780px) {
@@ -223,6 +238,12 @@ html {
   .card {
     width: 800px;
   }
+  .navbar-end .navbar-item {
+    width: 300px;
+  }
+  #col2 {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 400px) and (max-width: 660px) {
@@ -233,7 +254,7 @@ html {
     margin-left: 0px;
   }
   .card {
-    width: 600px;
+    width: 800px;
   }
   .navbar-end .navbar-item {
     width: 300px;
@@ -252,7 +273,6 @@ html {
   .card {
     width: 600px;
   }
-
   #col2 {
     display: none;
   }

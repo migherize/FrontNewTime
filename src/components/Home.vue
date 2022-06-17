@@ -264,7 +264,7 @@
 </template>
 
 <script>
-import json from './../../../data/items.json'
+import json from './../../data/items.json'
 import { mapState } from "vuex";
 
 export default {

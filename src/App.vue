@@ -1,27 +1,21 @@
 <template>
   <div id="main">
-    <Newcard></Newcard>
+    <HomeNew></HomeNew>
   </div>
 </template>
 
 <script>
-import Newcard from './components/Card.vue'
+//import Newcard from './components/Card.vue'
+import HomeNew from './components/Home.vue'
 
 export default {
   name: 'App',
   components: {
-    Newcard
+    HomeNew
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>

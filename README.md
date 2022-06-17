@@ -1,4 +1,4 @@
-# newtime
+# CryptoNew
 
 ## Project setup
 ```
